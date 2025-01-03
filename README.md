@@ -4,7 +4,7 @@ Pages: 1. launch page 2. Timer page
 1.launch page
 	just a tomato logo
 2. Timer page
-- Slider from 10 minutes to 120 minuets 
+- Slider from 15 minutes to 120 minuets 
 - Start button
 - A progress bar show how much has been completed
 - Label shows how much time has left
